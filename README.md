@@ -114,7 +114,7 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](http://shreyas.student.saveetha.in:8000/static/images/out.png?raw=true)
+![OUTPUT](http://shreyas.student.saveetha.in:8000/static/images/out1.png?raw=true)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://shreyas.student.saveetha.in:8000/static/images/valid.png?raw=true)
