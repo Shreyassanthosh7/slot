@@ -113,10 +113,10 @@ Execute the program
 </html>
 ```
 
-# OUPUT
+## OUTPUT
 ![OUTPUT](http://shreyas.student.saveetha.in:8000/static/images/out1.png)
 
-# HTML VALIDATOR
+## HTML VALIDATOR
 ![HTML VALIDATOR](http://shreyas.student.saveetha.in:8000/static/images/valid.png)
 
 # RESULT
